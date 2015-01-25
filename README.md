@@ -14,5 +14,5 @@
 
 #####The codebook.md file describes the ouput file tidy data (tidydata.txt) andthe variables and transformations performed to clean up the original data
 
-#####The original data source can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. For detailed information about the data visit http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+#####The original data source can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
