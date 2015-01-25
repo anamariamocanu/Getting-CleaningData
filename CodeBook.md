@@ -1,10 +1,8 @@
 - The first step in the script was to set the working directory where I downloaded the data
 
 - After the working directory setup, I set the path for the trainSet(x_train), train Label(y_train), subjects(subject_train) in the train set, and set up equivalent paths to the test dataset (testSet(x_test), testLabel(y_test), subject test(subject_test)
-
 - The V2 of the feature txt file contrains 561 types of measurements, while the V2 of the activity labels txt file 
 has the descriptive names of the activities in the study
-
 - Then I read the components of the train data: trainSet, trainLabel, and subject train.
 - I named the header of the train Label data as Labels, and the header of the subjectTrain as subjects.
 - Observing that the trainSet data has as many variables as the features V2 observations, I named the headers of the trainSet according to features V2.
@@ -19,5 +17,5 @@ and label datasets (only for the train set)
 - I performed a similar column merge in the test data, merging the label, subjects and mean and std dev columns of the test data set
 -Afterwards I merged the rows of the 2 datasets again
 - I created a new Variable called activity, to represent the name of the activity label according to the label number in the merged dataset
-#### I aggregated the average mean and std dev observations the subset obtained by each activity and each subject
-### I saved the output of the tidy data as txt file
+- I aggregated the average mean and std dev observations the subset obtained by each activity and each subject
+- I saved the output of the tidy data as txt file
