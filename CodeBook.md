@@ -18,7 +18,6 @@ and label datasets (only for the train set)
 - I created a new Variable called activity, to represent the name of the activity label according to the label number in the merged dataset
 - I aggregated the average mean and std dev observations the subset obtained by each activity and each subject
 - I saved the output of the tidy data as txt file
-- 
 
 The variable used in the analysis were the following:
 
