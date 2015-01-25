@@ -12,7 +12,7 @@
 - Appropriately labels the data set with descriptive variable names. 
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#####The codebook.md file describes the ouput file tidy data (tidydata.txt) andthe variables and transformations performed to clean up the original data
+#####The codebook.md file describes the ouput file tidy data (tidydata.txt) and the transformations and variables performed to clean up the original data
 
 #####The original data source can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
