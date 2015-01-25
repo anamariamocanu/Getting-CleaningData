@@ -1,5 +1,4 @@
 - The first step in the script was to set the working directory where I downloaded the data
-
 - After the working directory setup, I set the path for the trainSet(x_train), train Label(y_train), subjects(subject_train) in the train set, and set up equivalent paths to the test dataset (testSet(x_test), testLabel(y_test), subject test(subject_test)
 - The V2 of the feature txt file contrains 561 types of measurements, while the V2 of the activity labels txt file 
 has the descriptive names of the activities in the study
