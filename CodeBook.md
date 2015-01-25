@@ -20,7 +20,7 @@ and label datasets (only for the train set)
 - I saved the output of the tidy data as txt file
 - 
 
-# The variable used in the analysis were the following:
+The variable used in the analysis were the following:
 
 ## ID Fields
 
