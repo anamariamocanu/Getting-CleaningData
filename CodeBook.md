@@ -19,7 +19,7 @@ and label datasets (only for the train set)
 - I aggregated the average mean and std dev observations the subset obtained by each activity and each subject
 - I saved the output of the tidy data as txt file
 
-The variable used in the analysis were the following:
+The variables used in the analysis were the following:
 
 ## ID Fields
 
